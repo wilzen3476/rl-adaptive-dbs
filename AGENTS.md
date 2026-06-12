@@ -1,1 +1,0 @@
-../../knowledge-base/neuroengineering/brain-stimulation-engineering/effort/AGENTS.md
